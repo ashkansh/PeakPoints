@@ -1,1 +1,10 @@
 Simple tool for extracting peak values (min and max, + or -) from a data scatter.
+
+Folder: MATLAB function
+Provides a MATLAB function in which gets vector file (data scatter) and exports peak points to a variable named cycle.
+
+Folder MATLAB source
+Provides a MATLAB GUI source in which user can use the graphical interface to import data scatter and export and plot peak points
+
+Folder: Executable
+Provides standalone application for this simple tool for users wihtout MATLAB.
